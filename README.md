@@ -12,9 +12,9 @@ Excel, Power Pivot, Retail Analytics, Inventory Analysis, Sales-at-Risk Modeling
 A CPG retail account team needs to identify which SKUs are at risk of stockout, quantify the potential sales impact, and prioritize replenishment actions before product availability affects retail performance.
 
 **My insights:**  
-- The portfolio includes **1,558 SKUs** with a total inventory value of approximately **$837K**.
-- The dashboard identified **44 SKUs at stockout risk in April**, creating a total estimated **sales-at-risk exposure of $399K**.
-- Sales at risk accelerates month over month, growing from approximately **$6.7K in Nov-2025** to **$173K in Apr-2026**, showing that availability risk becomes more critical over time.
+- The portfolio includes **1,558 SKUs** with a total inventory value of approximately **$728K**.
+- The dashboard identified **44 SKUs at stockout risk in April**, creating a total estimated **sales-at-risk exposure of $21K**.
+- Sales at risk accelerates month over month, growing from approximately **$300 in Nov-2025** to **$8.6K in Apr-2026**, showing that availability risk becomes more critical over time.
 - Risk is highly concentrated in a few categories: **Household Care, Personal Care, and Beverages** represent the largest share of total sales-at-risk.
 - The top-risk SKUs are not only low-coverage items, but also high-value products, making them immediate priorities for account and replenishment teams.
 
